@@ -4,7 +4,7 @@ Here's a draft for the **README** of the Link Extractor Tool for your GitHub rep
 
 # Link Extractor Tool
 
-The **Link Extractor Tool** is a lightweight CLI utility written in Go for parsing markdown files and extracting all the links contained within them. It’s designed to serve as a foundation for more complex tools, such as visualizing the interconnectedness of documents and external resources.
+The **Link Extractor Tool** is a lightweight CLI utility for parsing markdown files and extracting all the links contained within them. It’s designed to serve as a foundation for more complex tools, such as visualizing the interconnectedness of documents and external resources.
 
 ## Features
 
